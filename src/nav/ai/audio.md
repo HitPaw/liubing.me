@@ -55,6 +55,11 @@ containerClass: nav-container
   desc: 完整的生成语音AI工具包。
   link: https://www.resemble.ai/
 
+- icon: https://videotranslator.blipcut.com/images/logo/icon.png
+  name: BlipCut
+  desc: YouTube视频AI翻译器。
+  link: https://videotranslator.blipcut.com/
+
 - icon: '@websites/fakeyou.png'
   name: FakeYou
   desc: AI文字转语音，与您最喜欢的角色说话。
